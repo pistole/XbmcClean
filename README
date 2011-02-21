@@ -1,0 +1,5 @@
+THIS SCRIPT IS DANGEROUS.
+IT WILL DELETE ALL WATCHED FILES FROM AN XBMC LIBRARY.
+
+Edit SMB_PATH, BASE_PATH and dbConfig in XbmcClean.class.php.
+Uncomment the unlink command in XbmcClean.php if you dare.
